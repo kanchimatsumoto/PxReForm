@@ -1,0 +1,5 @@
+vite.config.ts
+.eslintrc.js
+node_modules
+yarn.lock
+public
